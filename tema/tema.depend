@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1654451469 source:c:\users\alexandra\desktop\pa\tema\main.c
+	<stdio.h>
+	<stdlib.h>
+	"solve.h"
+
+1654451466 c:\users\alexandra\desktop\pa\tema\solve.h
+
+1654451468 source:c:\users\alexandra\desktop\pa\tema\solve.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<time.h>
+	"solve.h"
+
