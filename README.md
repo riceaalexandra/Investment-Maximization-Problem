@@ -1,2 +1,4 @@
-# Investment-Maximization-Problem
-This repository contains two implementations for solving the Investment Selection Problem. Given a capital C and n investment opportunities, with each opportunity having a specific number of stocks available and an estimated profit per stock, the goal is to determine the investment portfolio that maximizes the expected profit.
+# Investment Maximization Problem
+This repository contains two implementations for solving the Investment Selection Problem. Given a capital C and n investment opportunities, with each opportunity having a specific number of stocks available and an estimated profit per stock, the goal is to determine the investment portfolio that maximizes the expected profit. <br>
+The project contains two algorithms for solving this problem: one that uses dynamic programming and another that uses a recursive approach. Both implementations are written in C and are described in detail in the technical report included in the repository.<br>
+The objective of this project is to provide a comparative analysis between the two algorithms and highlight their strengths and weaknesses in terms of time complexity, memory usage, and suitability for different types of inputs.<br>
